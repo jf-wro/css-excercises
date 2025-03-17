@@ -1,0 +1,20 @@
+.odd_class {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif; 
+}
+
+.odd_class.large {
+    font-size: 24px;
+}
+
+#element_2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#element_4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
